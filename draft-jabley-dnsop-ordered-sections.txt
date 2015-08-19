@@ -120,7 +120,7 @@ Internet-Draft     Ordering of RRSets in DNS Messages        August 2015
    [I-D.ietf-dnsop-dns-terminology].
 
    In an exchange of DNS messages between two hosts, this document
-   refers to the host sending a DNS request as the initiator, and the
+   refers to the host sending a DNS request as the initiator and the
    host sending a DNS response as the responder.
 
    The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
@@ -184,8 +184,8 @@ Internet-Draft     Ordering of RRSets in DNS Messages        August 2015
    responders.
 
    This document updates [RFC1035] to specify that every section in a
-   DNS message is an ordered list of RRSets, and clarifies the
-   directions provided in [RFC1034] to match the observed behaviour and
+   DNS message is an ordered list of RRSets and clarifies the directions
+   provided in [RFC1034] to match the observed behaviour and
    expectations of deployed software.
 
 
