@@ -22,7 +22,8 @@
   <?rfc strict="yes" ?>
 
   <front>
-    <title>Ordering of RRSets in DNS Message Sections</title>
+    <title abbrev="Ordering of RRSets in DNS Messages">Ordering of
+      RRSets in DNS Message Sections</title>
 
     <author initials='J.' surname="Abley" fullname='Joe Abley'>
       <organization>Dyn, Inc.</organization>
