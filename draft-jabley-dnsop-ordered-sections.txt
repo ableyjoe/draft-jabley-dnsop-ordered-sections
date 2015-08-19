@@ -76,7 +76,7 @@ Table of Contents
    Appendix A.  Editorial Notes . . . . . . . . . . . . . . . . . . . 11
      A.1.  Venue  . . . . . . . . . . . . . . . . . . . . . . . . . . 11
      A.2.  Change History . . . . . . . . . . . . . . . . . . . . . . 11
-       A.2.1.  draft-jabley-dnsop-ordered-answers-00  . . . . . . . . 11
+       A.2.1.  draft-jabley-dnsop-ordered-sections-00 . . . . . . . . 11
    Author's Address . . . . . . . . . . . . . . . . . . . . . . . . . 12
 
 
@@ -572,7 +572,7 @@ A.1.  Venue
 
 A.2.  Change History
 
-A.2.1.  draft-jabley-dnsop-ordered-answers-00
+A.2.1.  draft-jabley-dnsop-ordered-sections-00
 
    Initial draft circulated for comment.
 
